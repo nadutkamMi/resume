@@ -8,3 +8,10 @@ indent_size = 2
 indent_style = space
 insert_final_newline = true
 spaces_around_operators = true
+trim_trailing_whitespace = true
+
+[*.{js,ts}]
+quote_type = double
+
+[*.{markdown,md}]
+trim_trailing_whitespace = false
