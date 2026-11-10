@@ -8,3 +8,11 @@ _site/
 .DS_Store
 bbin/
 gh-pages/
+coverage
+.ruby-version
+.sass-cache
+.vagrant/
+
+.vscode/
+*.code-workspace
+.history/
